@@ -1,0 +1,43 @@
+about me
+I'm passionate and skilled developer with a solid foundation in HTML, CSS, JavaScript, and frameworks like React and Node.js. Proficient in backend development, with a strong focus on delivering innovative and efficient solutions. Committed to continuous learning, growth, and contributing to high-impact projects within dynamic, collaborative teams.
+
+Here's a quick summary about me:
+
+😊 Pronouns: He/him
+💡 Fun fact: Graduate of AltSchool Africa School of Software Engineering Class of 2023.
+🌱 Currently mastering: TypeScript, Docker, and Cloud Computing.
+😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer, Frontend Engineer or Backend Engineer (Intern or Junior level).
+📫 You can view my resume and contact me by emailing egwaoje.daniel@gmail.com.
+
+
+
+projects
+💼 Projects
+article
+
+ Heading 3 1️⃣ Blog Authentication API (Node.js, Express, MongoDB)
+
+
+paragraphy 🔹 Features: User sign-up, login, authentication, and role-based authorization.
+anchor tag 🔹 GitHub Repo
+
+2️⃣ Wallet Transaction System (Node.js, MongoDB, JWT)
+
+🔹 Features: Secure user wallets, transaction history, balance tracking.🔹 GitHub Repo
+
+
+
+contact me
+
+ <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:daniel@example.com">daniel@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/kikachukwu137" target="_blank">kikachukwu137</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Daniel Kikachukwu. All rights reserved.</p>
+  </footer>
+
+note keep everthing simple
